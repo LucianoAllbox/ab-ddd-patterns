@@ -37,3 +37,4 @@ export default class ProductRepository implements ProductRepositoryInterface {
     );
   }
 }
+
